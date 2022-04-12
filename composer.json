@@ -6,6 +6,7 @@
     "license": "Apache-2.0",
     "require": {
         "php": "^8.0",
+        "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^3.0.0",
         "guzzlehttp/guzzle": "^7.4.2",
         "laravel/framework": "^9.0",
